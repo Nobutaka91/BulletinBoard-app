@@ -83,11 +83,11 @@ ul li p {
 .link-delete-button {
   display: inline-block;
   background-color: #cc361f;
-  font-size: 17px;
+  font-size: 12px;
   color: #fff;
-  padding: 10px 20px;
+  padding: 5px 10px;
   text-decoration: none;
-  border-radius: 5px;
+  border-radius: 8px;
   text-align: center;
   margin-left: 10px;
   border: 1px solid;
